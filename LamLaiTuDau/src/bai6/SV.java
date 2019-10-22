@@ -86,7 +86,7 @@ public class SV {
         return xepLoai;
     }   
 
-
+    
     public static void main(String[] args) {
        SV p = new SV("pham huu manh",new Date("10/10/2000"),4);
        p.hienThi();
@@ -94,4 +94,4 @@ public class SV {
 
 }
 
-}
+
