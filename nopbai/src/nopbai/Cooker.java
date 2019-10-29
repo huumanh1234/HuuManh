@@ -1,3 +1,5 @@
+package nopbai;
+
 
 abstract class Cooker extends ElectricalDevice{
    

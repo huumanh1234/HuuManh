@@ -1,3 +1,5 @@
+package nopbai;
+
 abstract class ElectricalDevice implements Switchable {
     protected String menufacture;
     protected double price;
